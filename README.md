@@ -1,6 +1,4 @@
-# README.md
-
-## Business Case: Financial Forecasting at USAA Using Gearing Ratios
+# Financial Forecasting at USAA Using Gearing Ratios
 
 ### Introduction
 USAA (United Services Automobile Association) provides financial services to its members, including banking, insurance, and investment products. Accurate financial forecasting is crucial for strategic planning, risk management, and ensuring the long-term financial health of the organization. This business case outlines the need for a financial forecasting model that incorporates gearing ratios to predict future financial performance and inform decision-making.
